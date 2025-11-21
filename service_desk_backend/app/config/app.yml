@@ -1,0 +1,5 @@
+DB:
+  HOST: "localhost"
+  USER: "root"
+  PASSWORD: "Qywter12"
+  DATABASE: "it_service_desk"
